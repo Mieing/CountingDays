@@ -1,0 +1,9 @@
+Package: com.fries.countingdays
+Name: Fries's 倒数日
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A beautiful countdown/countup app
+Maintainer: fries
+Author: fries
+Section: Utilities
+Depends: firmware (>= 16.0) | ${LIBSWIFT}
